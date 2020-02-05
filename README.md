@@ -5,6 +5,6 @@
 * This project provides a GUI upon running where you can draw an arbitrary number and the program will output the top 3 most likely numbers it thinks the number is.
 * To use: run the **gui_test2.m** file.
 * For the details of implementation: run **with_scoring.m**.
-* A quick look at how SIFT works:
+* A quick look at how SIFT works is as follows. We can see no matter what the orientation and scale is (hence the name Scale Invariant), the algorith still detects the features from the new digit with the corresponding features from the digit in database.  
 
 ![](images/4.png)
