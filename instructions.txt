@@ -1,0 +1,5 @@
+To use:
+-> Run the "gui_test2.m"
+
+For the details of implementation:
+-> Run "with_scoring.m"
